@@ -1,6 +1,6 @@
 # hi 👋
 
-Im a self taught dev from the us. I mainly use javascript with some c++ and rust sprinkled in.
+Im a self taught dev from the us. I mainly use Rust with some javascript and c++ sprinkled in.
 
 ### github stats:
 
